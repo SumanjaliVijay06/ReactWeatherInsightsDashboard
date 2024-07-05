@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactWeatherInsightsDashboard/static/css/main.4891724a.css",
+    "main.js": "/ReactWeatherInsightsDashboard/static/js/main.e78821fd.js",
+    "static/js/453.f9de0c33.chunk.js": "/ReactWeatherInsightsDashboard/static/js/453.f9de0c33.chunk.js",
+    "static/media/Sunny.jpg": "/ReactWeatherInsightsDashboard/static/media/Sunny.07b6649a576157480a4a.jpg",
+    "static/media/Rainy.jpg": "/ReactWeatherInsightsDashboard/static/media/Rainy.b7c6c12e4442eb910f7b.jpg",
+    "static/media/snow_jpg.jpg": "/ReactWeatherInsightsDashboard/static/media/snow_jpg.928ea16ea0ffb6f58e59.jpg",
+    "static/media/Fog_jpg.jpg": "/ReactWeatherInsightsDashboard/static/media/Fog_jpg.7a59053aa4ab0e3fd4f6.jpg",
+    "static/media/Clear.jpg": "/ReactWeatherInsightsDashboard/static/media/Clear.c46e3df70f41ba07f077.jpg",
+    "static/media/cloudy_weather_jpg.jpg": "/ReactWeatherInsightsDashboard/static/media/cloudy_weather_jpg.58c041fa2b506628c679.jpg",
+    "static/media/storm_weather_jpg.jpg": "/ReactWeatherInsightsDashboard/static/media/storm_weather_jpg.423c202ffbb065eeffc5.jpg",
+    "static/media/storm_weather.png": "/ReactWeatherInsightsDashboard/static/media/storm_weather.c980db3eac43434d0179.png",
+    "static/media/rainy_weather.png": "/ReactWeatherInsightsDashboard/static/media/rainy_weather.d92861a7023bf3191d55.png",
+    "static/media/wind_icon.png": "/ReactWeatherInsightsDashboard/static/media/wind_icon.615dbcc11fcdef4ffba7.png",
+    "static/media/snow_weather_icon.png": "/ReactWeatherInsightsDashboard/static/media/snow_weather_icon.405920f59dfae6b58b64.png",
+    "static/media/foggy_weather.png": "/ReactWeatherInsightsDashboard/static/media/foggy_weather.a0f77e5f739ce50da074.png",
+    "index.html": "/ReactWeatherInsightsDashboard/index.html",
+    "main.4891724a.css.map": "/ReactWeatherInsightsDashboard/static/css/main.4891724a.css.map",
+    "main.e78821fd.js.map": "/ReactWeatherInsightsDashboard/static/js/main.e78821fd.js.map",
+    "453.f9de0c33.chunk.js.map": "/ReactWeatherInsightsDashboard/static/js/453.f9de0c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4891724a.css",
+    "static/js/main.e78821fd.js"
+  ]
+}
