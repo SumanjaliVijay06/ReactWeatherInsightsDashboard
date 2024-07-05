@@ -3,15 +3,10 @@
 
 A web application to display the current weather and forecast for various cities around the world. This project uses the OpenWeatherMap API to fetch weather data and is built with React.
 
-<<<<<<< HEAD
-=======
-## 
->>>>>>> 111476341d0ec9d165ba3fdebb50102331c7cc2f
 ## Deployed over Github Pages
 
   https://sumanjalivijay06.github.io/React_WeatherInsights_Dashboard/
  
-
 
 ## API Reference
 
