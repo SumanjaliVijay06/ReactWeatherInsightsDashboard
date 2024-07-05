@@ -1,6 +1,5 @@
 {
   "name": "weather-app",
-  "homepage": "https://sumanjalivijay06.github.io/React_WeatherInsightDashboard/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
