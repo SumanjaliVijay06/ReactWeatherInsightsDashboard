@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # React Weather Dashboard Documentation
 
 A web application to display the current weather and forecast for various cities around the world. This project uses the OpenWeatherMap API to fetch weather data and is built with React.
@@ -68,6 +69,12 @@ The TravelerDashboard component provides
 ## Demo
 checkout out the live demo of the project: [React Weather Dashboard] (https://sumanjalivijay06.github.io/ReactWeatherInsightsDashboard/)
 
+=======
+# React Weather Dashboard
+
+A web application to display the current weather and forecast for various cities around the world. This project uses the OpenWeatherMap API to fetch weather data and is built with React.
+
+>>>>>>> a759248dbcc553ff6c061a3da171fcea264a740f
 ## API Reference
 
 ### API's Used
@@ -82,6 +89,7 @@ METHOD: GET
 URL:
  https://pro.openweathermap.org/data/2.5/forecast/hourly?&appid={API_Key}&q=${City_Name}&days=Days
 
+<<<<<<< HEAD
 ## Installation
 
 ### Dependencies
@@ -104,11 +112,14 @@ npm run deploy
 ### Prerequisites
 
 - Node.js and npm installed on your machine
+=======
+>>>>>>> a759248dbcc553ff6c061a3da171fcea264a740f
 
 ### Libraries used
 - axios
 - react-scripts
 
+<<<<<<< HEAD
 ### Clone the Repository
 
 ```bash
@@ -131,3 +142,12 @@ The Weather Dashboard application is designed to
 
 - [Create React App] (https://create-react-app.dev/) for the boilerplate code
 
+=======
+## Features
+
+- Search for weather information by city name.
+- Display current weather conditions including Temperature, Humidity, Wind speed, UV, Pressure and more.
+- Show 3-days weather forecast.
+- Tailor dashboard for different user groups: event planners, farmers, and travelers. And advices to them.
+- User preferences like outdoor and indoor.
+>>>>>>> a759248dbcc553ff6c061a3da171fcea264a740f
