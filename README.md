@@ -68,7 +68,7 @@ The EventPlannerDashboard component is designed to provide event planners with e
 - User preferences like outdoor and indoor.
 
 ## Demo
-checkout out the live demo of the project: [React Weather Dashboard] (https://sumanjalivijay06.github.io/ReactWeatherInsightsDashboard/)
+checkout out the live demo of the project: [React Weather Dashboard](https://sumanjalivijay06.github.io/ReactWeatherInsightsDashboard/)
 
 ## API Reference
 
