@@ -126,9 +126,9 @@ npm run deploy
 The Weather Dashboard application is designed to
 
 ## Reference
-- [Open Weather API] (https://openweathermap.org/) for providing the weather API
 
-- [Create React App] (https://create-react-app.dev/) for the boilerplate code
+ - [Open Weather API](https://openweathermap.org/) for providing the weather API
+ - [Create React App](https://create-react-app.dev) for the boilerplate code
 
 ### Clone the Repository
 
