@@ -123,7 +123,7 @@ npm run deploy
   - Bootstrap
 
 ## Conclusion
-The Weather Dashboard application is designed to
+The Weather Dashboard application is a comprehensive tool for accessing and displaying weather information in an intuitive and user-friendly interface. With components tailored for various user needs—whether for travelers, event planners, or general users—the application leverages the power of the OpenWeatherMap API to deliver accurate and timely weather data.
 
 ## Reference
 
